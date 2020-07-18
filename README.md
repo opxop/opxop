@@ -1,1 +1,1 @@
-![hello](https://github.com/opxop/opxop/blob/master/mbee.gif)
+![github stats](https://github-readme-stats.vercel.app/api?username=opxop&show_icons=true)
