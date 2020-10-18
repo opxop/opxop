@@ -1,6 +1,8 @@
-## Hi 👋, I'm [Opa Kholis Majid](https://opakholis.me) 
+## Hi 👋, I'm [Opa Kholis Majid](https://opakholis.me)
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400>
+
+<br><br>
 
 - 🏢 I'm currently interning with awesome peeps at [Jiwalu Studio](https://jiwalu.id);
 - 🌱 Learning more about and studying: [Flutter](https://flutter.dev) and [React](https://reactjs.org);
