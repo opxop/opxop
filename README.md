@@ -1,14 +1,20 @@
-## Hi 👋, I'm [Opa Kholis Majid](https://opakholis.me)
+### Hi There, I'm [Opa Kholis Majid](https://opakholis.me) 👋
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+- 🌱 Learning more about and studying: NodeJs, Flutter, and ReactJs
+- 🎧 Listening to all my favorite jams on [Spotify](https://open.spotify.com/user/xil3nxol9wadm6lgyw5qv1l2h?si=QDNUS80iR4C97B-tQVLJDw)
+- 👯 Would love to collaborate on anything related to Web
+- 😄 Pronouns: he/him/his
 
-<br><br>
+**Languages:**  
 
-- 🏢 I'm currently interning with awesome peeps at [Jiwalu Studio](https://jiwalu.id);
-- 🌱 Learning more about and studying: [Flutter](https://flutter.dev) and [React](https://reactjs.org);
-- 🎧 Listening to all my favorite jams on [Spotify](https://open.spotify.com/user/xil3nxol9wadm6lgyw5qv1l2h?si=QDNUS80iR4C97B-tQVLJDw);
-- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more!;
-- 📫 Reach me at:  
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/opakholis)](https://twitter.com/opakholis)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opakholis/)](https://www.linkedin.com/in/opakholis)
-[![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/opakholis)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+### Get in touch 📧
+
+- [LinkedIn](https://linkedin.com/in/opakholis)
+- [Twitter](https://twitter.com/opakholis)
+- [Wesbite](https://opakholis.me/about)
+
+[![HitCount](http://hits.dwyl.com/opxop/opxop.svg)](http://hits.dwyl.com/opxop/opxop)
