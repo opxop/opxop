@@ -1,4 +1,4 @@
-### Hi There, I'm [Opa Kholis Majid](https://opakholis.me) 👋
+### Hi there, I'm [Opa Kholis Majid](https://opakholis.me) 👋
 
 - 🌱 Learning more about and studying: NodeJs, Flutter, and ReactJs
 - 🎧 Listening to all my favorite jams on [Spotify](https://open.spotify.com/user/xil3nxol9wadm6lgyw5qv1l2h?si=QDNUS80iR4C97B-tQVLJDw)
@@ -16,5 +16,3 @@
 - [LinkedIn](https://linkedin.com/in/opakholis)
 - [Twitter](https://twitter.com/opakholis)
 - [Wesbite](https://opakholis.me/about)
-
-[![HitCount](http://hits.dwyl.com/opxop/opxop.svg)](http://hits.dwyl.com/opxop/opxop)
