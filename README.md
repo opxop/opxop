@@ -15,6 +15,5 @@
 
 ### Get in touch
 
-- [LinkedIn](https://linkedin.com/in/opakholis)
 - [Twitter](https://twitter.com/opakholis)
 - [Website](https://opakholis.me/about)
